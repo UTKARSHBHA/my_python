@@ -1,3 +1,5 @@
+#Commented by GAurav Dixit
+
 print("PYTHONS NOTES")
 #so what you saw was the prit function you can print anything using this functiom
 #you can create comments by putting hash sign before any statement so that it do not effect the program
